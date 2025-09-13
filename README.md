@@ -13,7 +13,8 @@
 
 ## 📌 About Me
 
-I'm **Oxeigns**, a passionate developer building Telegram bots, open-source tools, and automation utilities.  
+I'm **Oxeigns**, a passionate developer building Telegram bots, open-source tools, and automation utilities. 
+vc fyter , carder , banner , android expert and with many skills 
 Check out my Telegram: [@oxeign](https://t.me/oxeign)
 
 ---
