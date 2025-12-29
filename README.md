@@ -6,15 +6,15 @@
 
 <p align="center">
   <b>Visitors</b><br>
-  <img src="https://profile-counter.glitch.me/Oxeigns/count.svg" />
+  <img src="https://profile-counter.deno.dev/Oxeigns/count.svg" />
 </p>
 
 ---
 
 ## 📌 About Me
 
-I'm **Oxeigns** — a developer who builds **Telegram bots**, **open-source tools**, and **automation utilities**.  
-I’m also into **Android**, **UI banners/cards**, and general scripting.
+I'm **Oxeigns**, a passionate developer focused on **Telegram bots**, **open-source tools**, and **automation utilities**.  
+I also work with **Android**, **UI banners/cards**, and scripting projects.
 
 ---
 
@@ -28,12 +28,12 @@ I’m also into **Android**, **UI banners/cards**, and general scripting.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxeigns&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark&bg_color=000000" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxeigns&hide_border=true&theme=chartreuse-dark&background=000000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxeigns&show_icons=true&include_all_commits=true&cache_seconds=21600&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Oxeigns&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxeigns&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=000000" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxeigns&layout=compact&cache_seconds=21600&hide_border=true" width="49%" />
 </p>
 
 ---
